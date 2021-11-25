@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.headerset{
+    padding-top: 300px;
+    padding-right: 800px;
+    
+}
+.headerset h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.home{
+  background-image: url(7cb18679659f791b1191bea97b74dfc0.jpg) ;
+    background-image: center cover;
+    background-attachment: fixed;
+    height: 100vh; 
+    width: 100%;
+}
+.footer{
+  
+  height: 40vh;
+  width: 100%;
+}
+.icons :hover{
+  padding: 5px;
+  background-color: coral;
+  border-radius: 50%;
+}
+:root {
+    --bs-blue: #0d6efd;
+   
+Show All Properties (1 more)
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+
+h1{color: black;}
+body{$gray-100: #f8f9fa;}
+
+.footer{
+  
+    height: 40vh;
+    width: 100%;
+  }
+  .icons :hover{
+    padding: 5px;
+    background-color: coral;
+    border-radius: 50%;
